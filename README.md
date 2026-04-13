@@ -116,7 +116,3 @@ Make sure these are added to `.gitignore`.
 Pull requests are welcome.
 
 ---
-
-## 📜 License
-
-This project uses YOLO under AGPL license. Refer to the original Ultralytics repository for details.
